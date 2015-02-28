@@ -1,3 +1,4 @@
 hello git!
 hello github!
 hello branch!
+Creating a new branch is quick.
